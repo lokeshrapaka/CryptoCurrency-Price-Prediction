@@ -1,2 +1,16 @@
-# CryptoCurrency-Price-Prediction
-Built a crypto price prediction model using LSTM networks. Collected and preprocessed historical data, trained an LSTM for time-series forecasting, and evaluated performance using Root Mean Squared Error and Mean Absolute Error. Aimed to provide accurate predictions to support traders and investors.
+# cryptocurrency_price_predictor
+
+cryptocurrency_price_predictor/
+├─ .ipynb_checkpoints/
+│  └─ CryptoCurrency(Bitcoin) Price Prediction-checkpoint.ipynb
+├─ templates/
+│  ├─ base.html
+│  ├─ bit1.webp
+│  ├─ bit2.avif
+│  ├─ final.jpg
+│  ├─ index.html
+│  └─ result.html
+├─ app.py
+├─ CryptoCurrency(Bitcoin) Price Prediction.ipynb
+├─ model.keras
+└─ README.md
